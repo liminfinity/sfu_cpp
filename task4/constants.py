@@ -1,0 +1,1 @@
+DEFAULT_RATING_PATH = "ratings.json"
